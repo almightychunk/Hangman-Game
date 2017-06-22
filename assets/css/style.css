@@ -28,19 +28,19 @@ p {
   text-align: center;
 }
 
-li {
+#alphabet {
+  margin:15px auto;
+  padding:0;
+  max-width:850px;
+}
+
+#alphabet li {
   float: left;
   margin: 3%;
   display: inline-block;
   border: 1px solid red;
   padding: 1.8%;
   background: red;
-}
-
-#alphabet {
-  margin:15px auto;
-  padding:0;
-  max-width:900px;
 }
 
 #clue {
